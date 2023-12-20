@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@600&family=Poppins&display=swap');
+.home{
+    /* margin-top: 80px; */
+}
+.home__container {
+  /* top: 30px; */
+  /* background-color: #c49dd9;
+  background-color: hsla(  #c49dd9 , 0.1); */
+  /* background-color: #9966FF; */
+   /* background-color: hsla(270, 60%, 75%, 0.29);
+   background-color:  #333333; */
+
+  /* row-gap: 0.5rem; */
+}
+.bd-container {
+  /* max-width: 1150px;
+  max-width: 1450px;  */
+  /* width: calc(100% - 3rem); */
+}
+.home__title{
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #ff6f61;
+  font-family: 'Fredoka', cursive;
+  text-align: left;
+  width: 80%;
+  font-size: 90px;
+}
+.home__description{
+  font-size: 20px;
+  color:  #006666;
+  font-family: 'Fredoka', cursive;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+.home-button{
+  background-color: #008080;
+  color:whitesmoke;
+  font-family: 'Fredoka', cursive;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 10px 20px;
+  margin-right: 69%;
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.home-button:hover{
+  /*make the button hollow on hover*/
+  background-color: #006666;
+  color: whitesmoke;
+  transform: scale(1.1);
+}
+
+.stats-container {
+  display: flex;
+  justify-content: space-around; /* Adjust as needed */
+  align-items: center; /* Adjust as needed */
+}
+
+.grid-list {
+display: flex;
+}
+
+.grid-list li {
+  margin-right: 20px; /* Adjust as needed for spacing between cards */
+}
+
+
+.home__img {
+  height: 100%;
+  width: 100%;
+  border-radius: 25px;
+  justify-self: center;
+}
+.home__img img{
+  width: 900px;
+  height: 100%;
+  border-radius: 5px;
+}
+/* Optional: Adjust individual card styles as needed */
+.Stat {
+  /* Add any specific styles for your Stat component here */
+}
+
+.women {
+
+}
+.women__img img{
+  width: 100%;
+  height: 100%;
+}
+
+
+@media screen and (max-width: 768px) {
+  .home{
+    /* background-color: #fff; */
+    margin-top: 100px;
+    overflow-x: hidden;
+}
+}
+
+
+.img1 {
+  height: 100px;
+}
+
+.img2 {
+  width: 60px;
+  height: 30px;
+  padding: 20px;
+  max-width: 100%;
+  /* background-color: purple; */
+}
+
+.dha-overview {
+  height: 100vh;
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.dha-overview .left {
+  flex: 0.5;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+}
+
+.dha-overview .overview-content {
+  /* background-color: violet; */
+  margin-bottom: 0.9%;
+}
+
+.dha-overview .left  a {
+  font-family: 'Fredoka', cursive;
+  text-transform: uppercase;
+  margin-left: 15%;
+  outline: 0;
+  background: #ff6f61;
+  width: 30%;
+  border: 0;
+  padding: 20px;
+  color: #006666;
+  font-weight: bolder;
+  border-radius: 10px;
+  font-size: 18px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+
+}
+
+.dha-overview .right {
+  flex: 0.5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.dha-overview .right img {
+  width: 550px;
+  height: 380px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  border-radius: 5px;
+}

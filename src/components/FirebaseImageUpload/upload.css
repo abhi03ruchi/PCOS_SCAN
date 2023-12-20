@@ -1,0 +1,138 @@
+.uploadcss {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #eafaf8;
+    border-radius: 5px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+  }
+  .uploadcss h1{
+    font-family: 'Fredoka', cursive;
+    font-size: 50px;
+    color: #008080;
+  }
+  .uploadfirst{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #eafaf8;
+    border-radius: 5px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .uploadcss input {
+    margin-bottom: 15px;
+    font-size: 24px;
+    font-family: 'Fredoka', cursive;
+  }
+  
+  .uploadbtn {
+    background-color: #008080;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Fredoka', cursive;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    font-size: 18px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .uploadbtn:hover {
+    background-color: #006666;
+  }
+
+   
+  .donebtn {
+    background-color: #008080;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Fredoka', cursive;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 30px;
+    cursor: pointer;
+    outline: none;
+    font-size: 18px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .donebtn:hover {
+    background-color: #006666;
+  }
+  
+  .uploaded-images {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    display: none;
+  }
+  
+  .uploaded-images img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    background-color: #006666;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+  }
+  .uploadcss p{
+    font-family: 'Fredoka', cursive;
+    font-size: 18px;
+    font-weight: lighter;
+    color: #008080;
+    text-align: center;
+  }
+
+  .uploadcss form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  .uploadcss label {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    color: #008080;
+    text-align: center;
+    width: 450px;
+  }
+  .uploadcss input {
+    margin-bottom: 15px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family:Poppins;
+    border: 2px solid transparent;
+    border-radius: 3px;
+    background-color: #eafaf8;
+  }
+  .uploadcss input:hover {
+    border: 2px solid #008080;
+    outline: none;
+  }
+  .uploadcss input:focus {
+    border: 2px solid #008080;
+    outline: none;
+  }
