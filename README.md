@@ -25,27 +25,8 @@ With a commitment to improving women's health, PCOS SCAN offers a user-friendly 
 <img width="1440" alt="Screenshot 2023-12-20 at 4 15 56 PM" src="https://github.com/abhi03ruchi/PCOS_SCAN/assets/105661636/c7651ed5-01e8-47b4-a7b7-5ce6ee9e5e80">
 
 # Key Features✨
-
-### Teammate Selection
-• Get a list of verified people looking for teams 
-• View their experience, technical stack
-• You can customise your gender to connect with people from your community which will be displayed on the cards 
-• Interactive and easy to use.
-
-<img width="1369" alt="Screenshot 2023-06-25 at 7 08 47 PM" src="https://github.com/abhi03ruchi/Pryde/assets/105661636/dd122b97-9dfa-4d11-8bff-f8dc715654ea">
-
-
-### User Dashboard 
-• Get the Option of adding hackathons on calendar 
-• Add teammates and achievements to the added hackathon 
-• View matched teammates
-
-
-### Portfolio Generator 
-• Add all the details - social media links, project details, involvements in community events 
-• Get a beautiful portfolio generated ready to be shared with everyone 
-• Future Scope(underline this) - The portfolio will be available via our portal with your username as a slug.
-
+<img width="1127" alt="Screenshot 2023-12-20 at 4 20 31 PM" src="https://github.com/abhi03ruchi/PCOS_SCAN/assets/105661636/a00edc1b-2eaf-41c0-9a17-3f6f2851f000">
+<img width="915" alt="Screenshot 2023-12-20 at 4 20 46 PM" src="https://github.com/abhi03ruchi/PCOS_SCAN/assets/105661636/b4318b5e-10d0-4622-8c48-a5bb6db6c688">
 
 <h1 align='center'> Technology Stack Used</h1>
 <div align="center">
