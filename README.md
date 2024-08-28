@@ -9,13 +9,9 @@
 
 
 ## What Does It Do ? 
-Our innovative platform employs advanced machine learning algorithms to analyze and interpret ultrasound data, enabling accurate and early diagnosis of PCOS.
+Our innovative platform employs deep learning algorithms to analyze and interpret ultrasound data, enabling accurate and early diagnosis of PCOS.
 With a commitment to improving women's health, PCOS SCAN offers a user-friendly interface for healthcare professionals, facilitating efficient and reliable detection of PCOS through non-invasive ultrasound imaging. The company strives to contribute to early intervention and personalized care in the realm of reproductive health.
 
-
-
-## Backstory: Why We Built This Project
-4 out of 5 of our teammates belong to a women's university, and the one issue all of us face is - finding teammates for participating in hackathons. This issue stems from not being able to connect and know about the people we're connected with. Connectify was born out of a shared vision to empower and uplift individuals from marginalized genders in the tech community. Our team recognized the immense talent and potential within this community, yet also witnessed the systemic barriers and inequalities that hindered their progress. We were inspired to create a platform that would break down these barriers, foster collaboration, and provide a space where every voice could be heard and valued. With a deep commitment to diversity and inclusivity, we embarked on a journey to revolutionize the hackathon experience and unleash the limitless potential of underrepresented individuals in the world of technology
 
 # Components of Website
 
